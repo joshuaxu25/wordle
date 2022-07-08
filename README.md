@@ -1,9 +1,8 @@
 # Wordle Game React Practice
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# To play the game:
-Website: https://aqueous-meadow-33935.herokuapp.com/
+
+To play the game: https://aqueous-meadow-33935.herokuapp.com/
 
 
 
